@@ -36,7 +36,7 @@
           {title:"产品1",url:"/#"},
           {title:"产品2",url:"/#"},
           {title:"产品3",url:"/#"},
-          {title:"个人主页",url:"/#"}
+          {title:"个人主页",url:"/personal"}
         ],
         telephoneNumber:'400-400-666666'
       }
